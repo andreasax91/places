@@ -1,0 +1,22 @@
+{
+  "places":[
+    {
+      "id" : 1,
+      "title": "Testort",
+      "lat": 0,
+      "lng": 0
+    },
+    {
+      "id" : 2,
+      "title": "Vielleicht Spanient",
+      "lat": 5,
+      "lng": 25
+    }
+
+
+  ],
+  "config": {
+    "zoom": 12
+  },
+  "maxid": 1
+}
